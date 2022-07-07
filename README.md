@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Demo Link
+https://exquisite-kulfi-1c23c2.netlify.app/
+
 ## Screenshot
 
 ![App Screenshot](screenshot.PNG)
