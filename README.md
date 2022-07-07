@@ -7,7 +7,7 @@ https://exquisite-kulfi-1c23c2.netlify.app/
 
 ## Screenshot
 
-![App Screenshot](screenshot1.PNG)
+![App Screenshot](screenshot.PNG)
 
 ## Available Scripts
 
